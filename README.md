@@ -1,10 +1,10 @@
 # DicodingSubmission
 
-Nama  : Riza Harun Effendi
-Kelas : 5A
-NIM   : 17090126
+Nama  : Riza Harun Effendi <br>
+Kelas : 5A <br>
+NIM   : 17090126 <br>
 
 
-Bukti Lulus : 
+Bukti Lulus : <br>
 https://www.dicoding.com/users/601098/academies
 
